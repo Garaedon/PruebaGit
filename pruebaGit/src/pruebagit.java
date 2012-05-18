@@ -7,5 +7,6 @@ public class pruebagit
 	System.out.println("segunda linea");
 	System.out.println("tercera linea");
 	System.out.println("cuarta linea");
+	System.out.println("primera linea segunda rama");
  }
 }
